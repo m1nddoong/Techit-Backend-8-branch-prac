@@ -1,3 +1,5 @@
 # Main
 
-`feat-a` 를 완성했다!!해
+오늘 완성된 기능
+- `feat-a` 
+- `feat-b` 
